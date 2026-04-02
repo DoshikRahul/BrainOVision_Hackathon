@@ -5,9 +5,9 @@ import os
 # Note: You'll need to set GOOGLE_APPLICATION_CREDENTIALS pointing to the service account
 # and configure DIALOGFLOW_PROJECT_ID, DIALOGFLOW_LOCATION, DIALOGFLOW_AGENT_ID
 
-PROJECT_ID = os.getenv("DIALOGFLOW_PROJECT_ID", "your-project-id")
-LOCATION = os.getenv("DIALOGFLOW_LOCATION", "global")
-AGENT_ID = os.getenv("DIALOGFLOW_AGENT_ID", "your-agent-id")
+PROJECT_ID = os.getenv("DIALOGFLOW_PROJECT_ID", "aarogya-saathi-cbkb")
+LOCATION   = os.getenv("DIALOGFLOW_LOCATION", "global")
+AGENT_ID   = os.getenv("DIALOGFLOW_AGENT_ID", "f6b5db02-7a99-45c7-9ff2-3d5a0739241c")
 
 def detect_intent_texts(session_id: str, text: str, language_code: str = "en"):
     """Returns the result of detect intent with texts as inputs."""

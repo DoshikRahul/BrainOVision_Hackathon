@@ -17,10 +17,10 @@ This roadmap breaks down the tasks so the team can divide and conquer parallel t
 ### Phase 2: Conversational UI & Telegram Webhook
 **Goal**: Get the messaging interfaces talking to our backend.
 **Deliverables**:
-- `[ ]` Telegram Bot created via the BotFather and Token secured.
-- `[ ]` Dialogflow CX Agent initialized in Google Cloud.
-- `[ ]` Core Dialogflow CX Intents (Greeting, Disease Info, Symptom Checker) and Entities (@disease, @symptom) trained.
-- `[ ]` Local server connected to Telegram via ngrok webhook registration (targeting `POST /telegram-webhook`).
+- `[x]` Telegram Bot created via the BotFather and Token secured.
+- `[x]` Dialogflow CX Agent initialized in Google Cloud.
+- `[x]` Core Dialogflow CX Intents (Greeting, Disease Info, Symptom Checker) and Entities (@disease, @symptom) trained.
+- `[x]` Local server connected to Telegram via ngrok webhook registration (targeting `POST /telegram-webhook`).
 
 ### Phase 3: Knowledge Base & AI Model Integrations
 **Goal**: Empower the chatbot with real local data and predictive ML models.
@@ -49,6 +49,10 @@ This roadmap breaks down the tasks so the team can divide and conquer parallel t
 ---
 
 ## Local Development Backend Setup
+
+> **Phase 2 Note:** To quickly complete your Webhook and Dialogflow initialization, use the provided automation scripts:
+> - `python scripts/setup_telegram_webhook.py --url <YOUR_NGROK_URL>` (Uses the token in your .env or default)
+> - `python scripts/setup_dialogflow.py` (ensure GOOGLE_APPLICATION_CREDENTIALS is active)
 
 1. **Navigate to backend**: 
    ```bash

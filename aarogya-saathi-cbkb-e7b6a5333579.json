@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "aarogya-saathi-cbkb",
+  "private_key_id": "e7b6a5333579617ad720c784a79cdf7980a2431c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCzNF19wV8YUD+x\n/8u6Uqa068/sW/FA0zooUH/lVSxUu4JhMQgt+dL8M7DrkRybJFQLJE92RqowRLv+\nOXB1Puf0B1q82Szg57WKDsgGec15nl+40NYn50hjqYT5n4dvlLPx3shleHf1uLXP\nKwLNoQUWB0QKsgk4Zf4p0RMo0oLAaw77rGyV1tDPBnPC2PmPOCq1tKgJ1otsWtBN\n3QmfYbNDhFiwxYxCdAiq1W2O6fy9TEU8SnK5F95+5TXYAf/ArS+KHICx4+lgFhsP\nn67YWLi1f4k0c4FGskdPdq6uEnVa0t9QxcYdLB89mU7fW8hl3e1JnzSnhEk9qyjh\n0fuh6tXlAgMBAAECggEAHArsPGMXrfbU2NZl+4y2gKZMHbkPiizjs25RbUJEUyga\nkXn6RTOMZCH0pBBLsS1gp3OxqZkKRc5jurcjVX2YD5RdCyNTBgjMXEPO4lCKKmdx\npDqt4IWtSsc6w1NG/tt+wzExG8vbvcx/SuF4qVPyt01AxQmyLqyrNsD8Zg13H4P9\n5kdqOj9s9Jus/MUBcBX/w5tl3Lsvf2c9I089WcehBYxkk93pZdgxmmt5wBrqlDHk\nHuqEzOHB99zOILVPdrTcBUuuHogZcMFIv1dkT4QlO9vD5HZIdY1/+GXnoSTCNhFa\naCdcDzbZI8liHZbW41sLa/V0kN6BOWAS5wbNsrqB4QKBgQDuAjbzvxqy2eEJ84CC\njDom4Wo+xLPoNEsjIgYlssyf/gdnBvzrqUypo6/Mt22740R+J35jAaxkoVnnfEY+\nheHibV92nSA8grFrAcvra1wc4+m8bRQ8kdQ7sN5fTkym1Xoy9ny34MmGtIsllaiR\nz1jkNF/oKfuZ3U9Yy/wyxd/20QKBgQDAwDZxOKUyVqH/Uo9Dpk8iJ9ww+h9mNYi9\n/pxmXRzMv64kMVdd/h+owECYgJmneyZWBQrfl4ESdNiG5b0S0XhyKjAkbGa3dwSF\nTZb20BAZEQbSk6vHkAL9KA1xzut0D+j3zQFL4NN3VQ72ZzGsIVLhJLOybY5sjjgi\niHGn0j1a1QKBgQCi5RUjIept+jzRCL0tnDe4oJKMvye6hv/d3c2DQ6pU3hHG67ty\ntv5nJEaPwAL0kwkvpmwT6vNIND5J9n5FEHCW/fBWSBfmEjTHXgVo7KOwijRQ5/7v\nrYcqC1VGuVow3O6zrouRdeG3th197b3ffaADH+18Ai/XEObbiVDklxU/4QKBgQCh\nsh15ya07l1V63QV2GNQVsR6Ur58bnRlDWY5WiRIZ6Urq7cF/BioE5JLL3EYKK9Mz\nIjPG8k/C7eae86czXCoQi7erNozMp7lRIo/cKRr4DEKO8HaQiQ0Y1jrBGHaI/LfQ\n+Vd3EfoUB3Tv3A3dem8OlD1zF1j9VClfPtspj8MMqQKBgDvWjGIN3VHOWNg223Gw\n8vrLD3Gw3MSHqPlHdHBn7d28pPbO4szSSQ6TDa85kq0dgSAH1vtXOjAJiG3CkabM\n7wSys7k3Nm2bOz5/4+QYNhU2XR1IjBYjwjyMwOLV8/+nTXo+4caUjJPTw47mGI/Y\np7YrEmksGpyUdGMQuHuSiFyq\n-----END PRIVATE KEY-----\n",
+  "client_email": "aarogya-saathi@aarogya-saathi-cbkb.iam.gserviceaccount.com",
+  "client_id": "111971844313365270882",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/aarogya-saathi%40aarogya-saathi-cbkb.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

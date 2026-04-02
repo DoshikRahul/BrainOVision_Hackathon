@@ -1,0 +1,6 @@
+﻿[403] us-central1/aarogya-saathi: Permission denied
+[403] us-central1/default: Permission denied
+[403] global/aarogya-saathi: Permission denied
+[403] global/default: Permission denied
+[403] asia-south1/aarogya-saathi: Permission denied
+[403] asia-south1/default: Permission denied

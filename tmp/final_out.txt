@@ -1,0 +1,24 @@
+﻿============================================================
+  Aarogya Saathi -- Dialogflow CX Setup
+============================================================
+[OK] Found existing agent: projects/aarogya-saathi-cbkb/locations/global/agents/f6b5db02-7a99-45c7-9ff2-3d5a0739241c
+
+ΓöÇΓöÇ Uploading Entity Types ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+[OK] Entity 'disease' created ΓåÆ projects/aarogya-saathi-cbkb/locations/global/agents/f6b5db02-7a99-45c7-9ff2-3d5a0739241c/entityTypes/049de2ff-2ba5-44bd-9ae2-318dd223838e
+[OK] Entity 'symptom' created ΓåÆ projects/aarogya-saathi-cbkb/locations/global/agents/f6b5db02-7a99-45c7-9ff2-3d5a0739241c/entityTypes/ebfc141d-6a94-4c16-b19d-91152258bf04
+
+-- Uploading Intents -----------------------------------------------
+[OK] Intent 'Disease Information' created ΓåÆ projects/aarogya-saathi-cbkb/locations/global/agents/f6b5db02-7a99-45c7-9ff2-3d5a0739241c/intents/506cbe32-4811-4c36-95f6-3c53f9c52296
+[OK] Intent 'Greeting' created ΓåÆ projects/aarogya-saathi-cbkb/locations/global/agents/f6b5db02-7a99-45c7-9ff2-3d5a0739241c/intents/123d9e35-e3d7-4cb1-b6cc-53a4a95451dd
+[OK] Intent 'Symptom Checker' created ΓåÆ projects/aarogya-saathi-cbkb/locations/global/agents/f6b5db02-7a99-45c7-9ff2-3d5a0739241c/intents/a7e1c295-8d39-4514-95e2-cf81aefe17ef
+
+============================================================
+[DONE] Dialogflow CX agent setup complete!
+       Agent resource name: projects/aarogya-saathi-cbkb/locations/global/agents/f6b5db02-7a99-45c7-9ff2-3d5a0739241c
+
+  Next step: copy the UUID from the agent name and add
+  it to your .env file as:
+    DIALOGFLOW_PROJECT_ID=aarogya-saathi-cbkb
+    DIALOGFLOW_LOCATION=global
+    DIALOGFLOW_AGENT_ID=<uuid from agent_name>
+============================================================

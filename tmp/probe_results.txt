@@ -1,0 +1,7 @@
+﻿global              : 403: permission denied (agents.list)
+us-central1         : 403: permission denied (agents.list)
+us-east1            : 403: permission denied (agents.list)
+europe-west1        : 403: permission denied (agents.list)
+asia-south1         : 403: permission denied (agents.list)
+asia-northeast1     : 403: permission denied (agents.list)
+asia-southeast1     : 403: permission denied (agents.list)
